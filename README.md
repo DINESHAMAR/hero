@@ -1,2 +1,3 @@
 # hero
 Name
+kana
